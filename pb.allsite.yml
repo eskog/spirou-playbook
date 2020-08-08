@@ -1,3 +1,3 @@
 ---
-- import_playbook pb.chocolatey.yml
-- import_playbook pb.windows.yml
+- import_playbook: pb.chocolatey.yml
+- import_playbook: pb.windows.yml
